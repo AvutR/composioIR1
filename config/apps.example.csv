@@ -1,0 +1,11 @@
+app,category,hint_url
+Slack,communication,https://api.slack.com
+GitHub,developer,https://docs.github.com/en/rest
+Notion,productivity,https://developers.notion.com
+Stripe,finance,https://docs.stripe.com
+HubSpot,crm,https://developers.hubspot.com
+Jira,developer,https://developer.atlassian.com/cloud/jira/platform/rest/v3/
+Salesforce,crm,https://developer.salesforce.com/docs/apis
+Linear,productivity,https://developers.linear.app
+Dropbox,storage,https://www.dropbox.com/developers
+Twilio,communication,https://www.twilio.com/docs/usage/api
